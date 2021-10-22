@@ -1,0 +1,23 @@
+{
+  "name": "cypressapitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadiazaman1000/cypressAPITest.git"
+  },
+  "author": "nadiazaman1000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadiazaman1000/cypressAPITest/issues"
+  },
+  "homepage": "https://github.com/nadiazaman1000/cypressAPITest#readme",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  }
+}
